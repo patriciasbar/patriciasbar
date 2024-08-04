@@ -33,7 +33,7 @@ I'm a passionate Tech Business Analyst on a journey to become a Python Data Anal
 ### 🎨 Coding Badges
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/profile/patriciasbar)
 
-![Codewars](https://www.codewars.com/users/patriciasbar/badges/large)
+![Codewars](https://www.codewars.com/users/patriciasbar/badges/small)
 
 
 ### 🎬 Favourite Quotes
