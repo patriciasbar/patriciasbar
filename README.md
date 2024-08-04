@@ -1,4 +1,4 @@
-# 🌟 Welcome to My GitHub Galaxy! 🌟
+# 🌟 May the Code Be with You! 🌟
 
 ## 👋 Hello there! I'm Patrícia 👋
 
@@ -46,4 +46,4 @@ I'm a passionate Tech Business Analyst from Brazil 🇧🇷 on a journey to beco
 
 ---
 
-🌟 **Thank you for visiting my GitHub profile! Feel free to explore and may the code be with you!** 🌟
+🌟 **Thank you for visiting my GitHub profile!!** 🌟
