@@ -2,7 +2,7 @@
 
 ## 👋 Hello there! I'm Patrícia 👋
 
-I'm a passionate Tech Business Analyst on a journey to become a Python Data Analyst and Machine Learning Specialist. Based in London, I wield the powers of Python and SQL to conquer data challenges. Join me on my quest through the coding universe!
+I'm a passionate Tech Business Analyst from Brazil 🇧🇷 on a journey to become a Python Data Analyst and Machine Learning Specialist. Based in London, I wield the powers of Python and SQL to conquer data challenges. Join me on my quest through the coding universe!
 
 ### 🚀 My Tech Arsenal
 - **Languages & Tools:**
