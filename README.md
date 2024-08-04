@@ -15,9 +15,6 @@ I'm a passionate Tech Business Analyst on a journey to become a Python Data Anal
 - 🌌 **Interests:** Star Wars, John Wick, Iron Man, Doctor Strange
 - 💼 **Goal:** Python Data Analyst and Machine Learning Specialist
 
-### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/patricia-08silva/)
-
 ### 🌟 Fun Facts About Me
 - 🛡️ **Star Wars Fan:** May the force be with you!
 - 🕶️ **John Wick Enthusiast:** Ready for action with precision and style.
