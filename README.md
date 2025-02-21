@@ -9,6 +9,7 @@ I'm a passionate Tech Business Analyst from Brazil 🇧🇷 , based in London, o
   - ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
   - ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
   - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+  - ![C++](https://img.shields.io/badge/Language-C++-blue.svg)
   
 
 ### 💡 About Me
