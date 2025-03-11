@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Patrícia 👋
 
-I'm a passionate Tech Business Analyst from Brazil 🇧🇷 , based in London, on a journey to become a Python Data Analyst and Machine Learning Specialist. 
+I'm a passionate Tech Business Analyst from Brazil 🇧🇷, based in London, on a journey to become an AI Engineering Specialist.
 
 ### 🚀 Languages & Tools:
   - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
