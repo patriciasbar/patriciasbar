@@ -14,8 +14,8 @@ I'm a passionate Tech Business Analyst from Brazil 🇧🇷, based in London, on
 
 ### 💡 About Me
 - 🎓 **Current Role:** Tech Business Analyst
-- 📚 **Studying:** Python, Machine Learning, SQL
-- 💼 **Goal:** Python Data Analyst and Machine Learning Specialist
+- 📚 **Studying:** Python, Machine Learning, C++, SQL
+- 💼 **Goal:** Data Scientist and Machine Learning Specialist
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriciasbar&show_icons=true&theme=radical)
